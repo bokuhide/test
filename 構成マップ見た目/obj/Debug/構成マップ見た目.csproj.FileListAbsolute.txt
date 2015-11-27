@@ -8,4 +8,10 @@ c:\users\貴大\documents\visual studio 2015\Projects\構成マップ見た目\�
 c:\users\貴大\documents\visual studio 2015\Projects\構成マップ見た目\構成マップ見た目\obj\Debug\構成マップ見た目.pdb
 C:\Users\貴大\Documents\Visual Studio 2015\Projects\構成マップ見た目\構成マップ見た目\obj\Debug\構成マップ見た目.MapForm.resources
 C:\Users\貴大\Documents\Visual Studio 2015\Projects\構成マップ見た目\構成マップ見た目\obj\Debug\構成マップ見た目.EditorForm.resources
+<<<<<<< HEAD
 C:\Users\matsuoka\Documents\GitHub\test\構成マップ見た目\bin\Debug\構成マップ見た目.exe.config
+=======
+C:\Users\貴大\Documents\構成マップ見た目\構成マップ見た目\bin\Debug\構成マップ見た目.exe.config
+C:\Users\貴大\Documents\構成マップ見た目\構成マップ見た目\obj\Debug\構成マップ見た目.exe
+C:\Users\貴大\Documents\構成マップ見た目\構成マップ見た目\obj\Debug\構成マップ見た目.pdb
+>>>>>>> 9749c04c7e0bcb3e65154a22b001c42ce3c8d5f6
